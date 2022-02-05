@@ -1,7 +1,7 @@
 ---
-title: about
+title: thông tin
 layout: home
-permalink: /
+permalink: /about
 ---
 
 # Thông tin
