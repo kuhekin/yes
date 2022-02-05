@@ -1,5 +1,5 @@
 ---
-title: Kuhekin
+title: trang chủ
 layout: home
 permalink: /
 ---
