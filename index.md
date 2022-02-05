@@ -1,7 +1,7 @@
 ---
-title: /
+title: Kuhekin
 layout: home
-permalink: /
+permalink: /X/
 ---
 
 # Xin chào
