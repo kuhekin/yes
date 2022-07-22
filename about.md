@@ -1,10 +1,10 @@
 ---
-title: thông tin
+title: about
 layout: home
 permalink: /about
 ---
 
-# Thông tin
+# About
 
-Ngày tạo: 5/2/2022
+5/2/2022
 
