@@ -4,7 +4,6 @@ layout: home
 permalink: /
 ---
 
-# ☕
-:)
-
-Truyện dịch: [Brynth's relic](https://kuhekin.github.io/novel/)
+# From Kuhekin
+This is personal site, mostly to save random stuffs.
+If you some how found this, you're great hope you have a great day.
